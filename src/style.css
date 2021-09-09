@@ -1,0 +1,30 @@
+.body{
+    background-image: url(./Images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+color:azure;
+}
+.menu{
+    color:azure;
+    margin-left: 9%;
+    margin-bottom: 0 px;
+}
+
+.desc{
+    color:azure;
+    margin-top: 0px;
+    padding-top: 6%;
+    padding-bottom: 5%;
+    padding-left: 12%;
+}
+table tr td{
+    width:200px;
+    font-size: larger;
+    height: 50px;
+}
+h2{
+    margin-left: 23%;
+}
+.space{
+  padding-bottom: 50px;
+}
