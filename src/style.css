@@ -2,8 +2,9 @@
     background-image: url(./Images/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-color:azure;
+    color:azure;
 }
+
 .menu{
     color:azure;
     margin-left: 9%;
@@ -17,14 +18,30 @@ color:azure;
     padding-bottom: 5%;
     padding-left: 12%;
 }
+
 table tr td{
     width:200px;
     font-size: larger;
     height: 50px;
 }
+
 h2{
     margin-left: 23%;
 }
+
+h4, h6{
+    margin-left: 9%;
+}
+
+.notes{
+    margin-left: 9%;
+}
+
 .space{
   padding-bottom: 50px;
+}
+
+.cell{
+    height: auto;
+    width: 12vw;
 }
